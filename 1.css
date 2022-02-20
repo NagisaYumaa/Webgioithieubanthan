@@ -1,0 +1,34 @@
+*{margin:0;padding:0; }
+:root{
+    --white--color--:#fff;
+    --black--color--:#000;
+    --text--color--:var(--white--color--)
+}
+body {
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+.avatar{
+    width: 100px;
+    margin-top: 20px;
+}
+.btn{
+    white-space: nowrap;
+    text-align: center;
+    width: 300px;
+    margin-bottom: 20px;
+    padding: 10px 0px 10px 0px;
+    border-radius: 20px;
+    display: inline-block;
+ }
+.btn:hover {
+    background-color: #96ee6d;
+  }
+
+h3 {
+    color: white;
+}
+.hihi {
+    color: #fff;
+}
